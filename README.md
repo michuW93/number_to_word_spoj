@@ -1,2 +1,2 @@
 # number_to_word_spoj
-https://pl.spoj.com/problems/WWO_01_07/
+https://pl.spoj.com/problems/WWO_01_07/ - kind of foobuzz
